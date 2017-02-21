@@ -29,6 +29,7 @@ In the Terminal, type `pip3 install numpy` and `return`
 
 * Data from DataCamp.
 
+```
 import numpy as np
 
 height = [1.73, 1.68, 1.71, 1.89, 1.79]
@@ -54,5 +55,6 @@ bmi = np_weight / np_height ** 2
 
 bmi
 array([ 21.85171573,  20.97505669,  21.75028214,  24.7473475 ,  21.44127836])
+```
 
 
