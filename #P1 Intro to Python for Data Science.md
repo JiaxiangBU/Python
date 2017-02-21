@@ -105,9 +105,9 @@ When we use the markdown software, like ipython notebook, we want to convert the
 
 * At the Terminal, type `ipython nbconvert --to FORMAT notebook.ipynb`
 
-* FORMAT = pdf 
+* `FORMAT` = pdf 
 
-* notebook is md.file's name.
+* `notebook` is md.file's name.
 
 * And use the spotlight to find `notebook.pdf` which is your pdf file.
 
