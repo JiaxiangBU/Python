@@ -3,13 +3,13 @@
 At 1st, Go to the Mac Terminal, type `pip install requests` and `return`.
 
 Terminal replies:
-`Collecting requests
 
+```
+Collecting requests
 Using cached requests-2.13.0-py2.py3-none-any.whl
-
 Installing collected packages: requests
-
-Successfully installed requests-2.13.0`
+Successfully installed requests-2.13.0
+```
 
 * Do not type `pip install requests` and `return` in IDLE. The good reason:
 
