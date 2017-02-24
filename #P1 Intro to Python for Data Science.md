@@ -111,4 +111,17 @@ When we use the markdown software, like ipython notebook, we want to convert the
 
 * And use the spotlight to find `notebook.pdf` which is your pdf file.
 
+# How to use `dn-get` to download video?
+
+## How to "cd" to find the path?
+
+Go the `Terminal`, type cd, and find the py file and path.
+
+## fix `SyntaxError: invalid syntax` problem.
+
+When we set the path, we need use `python some.py`. If we successfully set in the 1st step, I think we will not face the problem below.
+```
+python dn-get.py
+SyntaxError: invalid syntax
+```
 
